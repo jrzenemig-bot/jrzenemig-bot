@@ -1,258 +1,34 @@
-# 👋 ¡Hola! Bienvenido a mi perfil
+# jrzenemig-bot
 
-```
- ██╗ ██████╗  █████╗  █████╗  ██████╗███████╗███╗   ███╗██╗ ██████╗ 
- ██║██╔════╝ ██╔════╝██╔════╝ ██╔════╝██╔════╝████╗ ████║██║██╔════╝ 
- ██║██║  ███╗██║     ██║  ███╗█████╗  ██╔██╗ ██╔████╔██║██║██║  ███╗
- ██║██║   ██║██║     ██║   ██║██╔══╝  ██║ ██╗██╚██╔╝██║██║██║   ██║
- ██║╚██████╔╝╚██████╗╚██████╔╝███████╗██║  ██╗╚═╝╚═╝╚═╝██║╚██████╔╝
- ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝       ╚═╝ ╚═════╝ 
-                                                                    
-```
-
-<div align="center">
-
-### 🚀 Desarrollador Full-Stack | 🤖 Especialista en IA | ⚖️ Apasionado por Legal-Tech
-
-*Construyendo soluciones inteligentes que transforman la jurisprudencia*
-
-[![GitHub followers](https://img.shields.io/github/followers/jrzenemig-bot?style=social)](https://github.com/jrzenemig-bot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jr.zenemig-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jr-zenemig)
-[![Twitter](https://img.shields.io/badge/Twitter-@jrzenemig-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/jrzenemig)
-[![Email](https://img.shields.io/badge/Email-jr.zenemig%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jr.zenemig@gmail.com)
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="360.0" viewBox="0 0 840.0 360.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect width="840.0" height="360.0" rx="12" fill="url(#bg)"/><rect x="0.5" y="0.5" width="839.0" height="359.0" rx="12" fill="none" stroke="#30363d" stroke-width="1"/><line x1="0" y1="30" x2="840.0" y2="30" stroke="#30363d"/><circle cx="20" cy="15.0" r="5" fill="#ff5f56"/><circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/><circle cx="52" cy="15.0" r="5" fill="#27c93f"/><text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">jrzenemig@github: ~$ whoami</text><line x1="0" y1="337.0" x2="840.0" y2="337.0" stroke="#30363d"/><text x="20" y="356.0" fill="#7d8590" font-size="13">jrzenemig@github:~$ <tspan fill="#c9d1d9">Full-Stack Developer | AI Enthusiast | Legal-Tech Pioneer</tspan></text><rect x="420.0" y="344.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect></svg>
 
 ---
 
-## 🎯 Sobre Mí
+## 👋 About Me
 
-```
-$ whoami
-> Desarrollador apasionado por la tecnología, jurisprudencia e inteligencia artificial
+I'm a passionate developer focused on building intelligent solutions at the intersection of **technology, law, and AI**. Currently working on modernizing legal information access through smart search and analysis tools.
 
-$ cat intereses.txt
-> 🤖 Automatización y IA/ML
-> ⚖️  Legal-Tech y jurisprudencia
-> 🔍 Web Scraping y procesamiento de datos
-> 🌐 Desarrollo Full-Stack
-> 📊 Análisis inteligente de información
-
-$ echo "Filosofía"
-> La mejor tecnología es la que simplifica la vida de las personas
-> y facilita el acceso a la justicia para todos.
-```
+**Full-Stack Developer** • **AI/ML Enthusiast** • **Legal-Tech Explorer**
 
 ---
 
-## 💻 Stack Tecnológico
+## 🏛️ Featured Project
 
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br/>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br/>
-  <sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" /><br/>
-  <sub><b>React</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" /><br/>
-  <sub><b>Flask</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /><br/>
-  <sub><b>SQL</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" /><br/>
-  <sub><b>Docker</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br/>
-  <sub><b>Git</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
-  <sub><b>OpenAI/Claude</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br/>
-  <sub><b>Linux</b></sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /><br/>
-  <sub><b>Node.js</b></sub>
-</td>
-</tr>
-</table>
+**[Buscador de Jurisprudencia Europea](https://github.com/jrzenemig-bot/buscador-jurisprudencia-ue)**
+
+An intelligent search and analysis platform for European case law (CJEU & ECHR) powered by AI. Combines semantic search, multi-language support, and automated analysis.
+
+**Tech:** Python • Flask • React • SQLite • OpenAI/Claude API
 
 ---
 
-## 🏆 Proyectos Destacados
+## 📞 Connect
 
-### 🏛️ [Buscador de Jurisprudencia Europea](https://github.com/jrzenemig-bot/buscador-jurisprudencia-ue)
-
-Plataforma inteligente de búsqueda y análisis de sentencias del TJUE y TEDH con IA avanzada.
-
-**Características:**
-- 🔍 Búsqueda semántica inteligente con embeddings
-- 🤖 Análisis automático con OpenAI/Claude
-- 🌐 Interfaz web responsive y moderna
-- 🗣️ Soporte multiidioma (6+ idiomas)
-- ⚡ Base de datos optimizada
-- 📊 Análisis de jurisprudencia en tiempo real
-
-**Stack:** Python | Flask | React | SQLite | OpenAI API
-
-[![GitHub Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/jrzenemig-bot/buscador-jurisprudencia-ue)
+- 💼 **LinkedIn:** [jr-zenemig](https://linkedin.com/in/jr-zenemig)
+- 🐦 **Twitter:** [@jrzenemig](https://twitter.com/jrzenemig)  
+- 📧 **Email:** jr.zenemig@gmail.com
+- 🌐 **GitHub:** [@jrzenemig-bot](https://github.com/jrzenemig-bot)
 
 ---
 
-## 📈 Mi Actividad en GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrzenemig-bot&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrzenemig-bot&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Especialidades & Áreas de Expertise
-
-| Área | Nivel | 
-|------|-------|
-| 🤖 **Inteligencia Artificial & ML** | ████████░ 85% |
-| ⚖️ **Legal-Tech & Jurisprudencia** | ████████░ 85% |
-| 🔍 **Web Scraping & APIs** | ██████░░░ 65% |
-| 📊 **Análisis de Datos** | ███████░░ 70% |
-| 🌐 **Desarrollo Full-Stack** | ███████░░ 70% |
-| 🎨 **Frontend & UX** | ██████░░░ 65% |
-| 🚀 **DevOps & Cloud** | █████░░░░ 50% |
-
----
-
-## 🚀 Qué Estoy Haciendo Ahora
-
-- 🔨 Mejorando el motor de búsqueda semántica con embeddings avanzados
-- 🤖 Integrando modelos de IA para análisis automático de sentencias
-- 📚 Desarrollando funcionalidades de traducción automática multiidioma
-- 🌍 Expandiendo la cobertura a jurisprudencia internacional
-- 💼 Colaborando en proyectos de intersección entre tech y derecho
-- 📝 Escribiendo artículos sobre automatización legal y IA
-
----
-
-## 🤝 Colaboración
-
-¿Tienes un proyecto interesante? **Me encantaría colaborar en:**
-
-- 🔍 **Búsqueda y análisis** de información jurídica
-- 🤖 **Proyectos con IA/ML** especialmente en legal-tech
-- ⚖️ **Soluciones tecnológicas** para el sector legal
-- 🌐 **Desarrollo Full-Stack** y arquitectura de software
-- 📊 **Análisis de datos** y visualización
-- 🔧 **DevOps y automatización**
-
----
-
-## 📚 Mi Filosofía
-
-```javascript
-const myPhilosophy = {
-  learning: "Continuous & Lifelong",
-  innovation: "Constant & Disruptive",
-  collaboration: "Essential & Inclusive",
-  code: "Clean & Documented",
-  impact: "Positive & Measurable",
-  ethics: "First & Always"
-};
-
-console.log("Credo: Usar la tecnología para democratizar el acceso a la justicia");
-```
-
----
-
-## 📊 Estadísticas Rápidas
-
-```
-╔════════════════════════════════════╗
-║    📋 ESTADÍSTICAS DE ACTIVIDAD    ║
-╠════════════════════════════════════╣
-║  Repositorios públicos:    ~15+    ║
-║  Lenguajes principales:    4       ║
-║  Proyectos destacados:     5+      ║
-║  Contribuciones anuales:   500+    ║
-║  Stack favorito:           Py+JS   ║
-╚════════════════════════════════════╝
-```
-
----
-
-## 💬 Mis Favoritos
-
-> *"El futuro pertenece a aquellos que creen en la belleza de sus sueños"*  
-> — Eleanor Roosevelt
-
-> *"La tecnología es mejor cuando conecta a las personas"*  
-> — Steve Jobs
-
-> *"El código es poesía"*  
-> — Donald Knuth
-
----
-
-## 📞 Conecta Conmigo
-
-<div align="center">
-
-| Plataforma | Link |
-|-----------|------|
-| 💼 **LinkedIn** | [jr-zenemig](https://linkedin.com/in/jr-zenemig) |
-| 🐦 **Twitter** | [@jrzenemig](https://twitter.com/jrzenemig) |
-| 📧 **Email** | [jr.zenemig@gmail.com](mailto:jr.zenemig@gmail.com) |
-| 🌐 **Portfolio** | [Mi sitio web](https://jrzenemig.dev) |
-| 💻 **GitHub** | [@jrzenemig-bot](https://github.com/jrzenemig-bot) |
-
-</div>
-
----
-
-## ⭐ Si Te Gusta Mi Trabajo
-
-Si encuentras valor en mis proyectos, ¡no dudes en:
-- ⭐ Darle una estrella a mis repositorios
-- 🔗 Compartir mis proyectos
-- 💬 Dejarme feedback
-- 🤝 Proponer colaboraciones
-
----
-
-<div align="center">
-
-### 🌟 Hecho con ❤️ y ☕ por jrzenemig-bot
-
-*Último actualizado: 2026*
-
-</div>
-
----
-
-### 📍 Ubicación & Zona Horaria
-
-🌍 **España**  
-⏰ **UTC+1** (o UTC+2 en verano)
-
----
-
-*Si has llegado hasta aquí, ¡gracias por visitar mi perfil! Espero que te haya gustado. Siéntete libre de contactarme si quieres colaborar en algo interesante.*
+**Building technology that makes legal justice more accessible.**
