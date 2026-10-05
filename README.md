@@ -1,34 +1,167 @@
-# jrzenemig-bot
+# 👋 ¡Hola! Soy **jrzenemig-bot**
 
-<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="880.0" viewBox="0 0 840.0 880.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect width="840.0" height="880.0" rx="12" fill="url(#bg)"/><rect x="0.5" y="0.5" width="839.0" height="879.0" rx="12" fill="none" stroke="#30363d" stroke-width="1"/><line x1="0" y1="30" x2="840.0" y2="30" stroke="#30363d"/><circle cx="20" cy="15.0" r="5" fill="#ff5f56"/><circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/><circle cx="52" cy="15.0" r="5" fill="#27c93f"/><text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">jrzenemig@github: ~$ ./portrait.sh</text><clipPath id="r0"><rect x="20" y="37.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.000s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r0)"><text xml:space="preserve" x="20" y="43.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                                                                                                                                                    </text></g><rect y="38.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.000s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.000s"/><set attributeName="opacity" to="0" begin="0.060s"/></rect><clipPath id="r1"><rect x="20" y="45.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.060s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r1)"><text xml:space="preserve" x="20" y="51.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                                   .::^~=-..                                                                                                            </text></g><rect y="46.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.060s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.060s"/><set attributeName="opacity" to="0" begin="0.121s"/></rect><clipPath id="r2"><rect x="20" y="53.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.121s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r2)"><text xml:space="preserve" x="20" y="59.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                                 .^!7?JJJJJJ777!^.                                                                                                       </text></g><rect y="54.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.121s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.121s"/><set attributeName="opacity" to="0" begin="0.181s"/></rect><clipPath id="r3"><rect x="20" y="62.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.181s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r3)"><text xml:space="preserve" x="20" y="68.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                               ^7YPGBBBBBBBBBGPY7^                                                                                                     </text></g><rect y="63.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.181s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.181s"/><set attributeName="opacity" to="0" begin="0.242s"/></rect><clipPath id="r4"><rect x="20" y="70.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.242s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r4)"><text xml:space="preserve" x="20" y="76.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                             !PBBBBBBBBBBBBBBBBBP!                                                                                                    </text></g><rect y="71.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.242s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.242s"/><set attributeName="opacity" to="0" begin="0.302s"/></rect><clipPath id="r5"><rect x="20" y="78.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.302s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r5)"><text xml:space="preserve" x="20" y="84.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                            JBBBBBBBBBBBBBBBBBBBJ                                                                                                    </text></g><rect y="79.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.302s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.302s"/><set attributeName="opacity" to="0" begin="0.362s"/></rect><clipPath id="r6"><rect x="20" y="87.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.362s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r6)"><text xml:space="preserve" x="20" y="93.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                           YBBBBBBBBBBBBBBBBBBBBY                                                                                                   </text></g><rect y="88.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.362s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.362s"/><set attributeName="opacity" to="0" begin="0.423s"/></rect><clipPath id="r7"><rect x="20" y="95.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.423s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r7)"><text xml:space="preserve" x="20" y="101.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                           BBBBBBBBBBBBBBBBBBBBB                                                                                                    </text></g><rect y="96.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.423s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.423s"/><set attributeName="opacity" to="0" begin="0.483s"/></rect><clipPath id="r8"><rect x="20" y="103.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.483s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r8)"><text xml:space="preserve" x="20" y="109.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                           BBBBBBBBBBBBBBBBBBBBB                                                                                                    </text></g><rect y="104.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.483s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.483s"/><set attributeName="opacity" to="0" begin="0.544s"/></rect><clipPath id="r9"><rect x="20" y="112.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.544s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r9)"><text xml:space="preserve" x="20" y="118.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          JBBBBB!~^..  ..^~!BBBBBJ                                                                                                   </text></g><rect y="113.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.544s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.544s"/><set attributeName="opacity" to="0" begin="0.604s"/></rect><clipPath id="r10"><rect x="20" y="120.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.604s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r10)"><text xml:space="preserve" x="20" y="126.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          GBBBB5    ~P?!YB    5BBBG                                                                                                   </text></g><rect y="121.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.604s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.604s"/><set attributeName="opacity" to="0" begin="0.665s"/></rect><clipPath id="r11"><rect x="20" y="128.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.665s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r11)"><text xml:space="preserve" x="20" y="134.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          PBBBB!  7BBBBBBBB7  !BBBP                                                                                                   </text></g><rect y="129.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.665s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.665s"/><set attributeName="opacity" to="0" begin="0.725s"/></rect><clipPath id="r12"><rect x="20" y="137.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.725s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r12)"><text xml:space="preserve" x="20" y="143.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          YBBBB5  PBBBBBBBBB~  5BBBY                                                                                                   </text></g><rect y="138.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.725s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.725s"/><set attributeName="opacity" to="0" begin="0.785s"/></rect><clipPath id="r13"><rect x="20" y="145.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.785s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r13)"><text xml:space="preserve" x="20" y="151.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          JBBBB!  YBBBBBBBB5  !BBBJ                                                                                                   </text></g><rect y="146.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.785s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.785s"/><set attributeName="opacity" to="0" begin="0.846s"/></rect><clipPath id="r14"><rect x="20" y="153.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.846s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r14)"><text xml:space="preserve" x="20" y="159.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                          GBBBB5   JBBBBBBBJ   5BBBG                                                                                                   </text></g><rect y="154.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.846s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.846s"/><set attributeName="opacity" to="0" begin="0.906s"/></rect><clipPath id="r15"><rect x="20" y="162.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.906s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r15)"><text xml:space="preserve" x="20" y="168.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                           PBBBBJ   !GBBBBG!   JBBBP                                                                                                   </text></g><rect y="163.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.906s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.906s"/><set attributeName="opacity" to="0" begin="0.967s"/></rect><clipPath id="r16"><rect x="20" y="170.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="0.967s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r16)"><text xml:space="preserve" x="20" y="176.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                            YBBBBBBJ   ~^Y~   JBBBBBY                                                                                                   </text></g><rect y="171.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="0.967s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.967s"/><set attributeName="opacity" to="0" begin="1.027s"/></rect><clipPath id="r17"><rect x="20" y="178.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="1.027s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r17)"><text xml:space="preserve" x="20" y="184.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                             7BBBBBBBBBBBBBBBBBBB7                                                                                                    </text></g><rect y="179.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="1.027s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.027s"/><set attributeName="opacity" to="0" begin="1.087s"/></rect><clipPath id="r18"><rect x="20" y="187.0" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="1.087s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r18)"><text xml:space="preserve" x="20" y="193.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                             !BBBBBBBBBBBBBBBBBBBB!                                                                                                    </text></g><rect y="188.0" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="1.087s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.087s"/><set attributeName="opacity" to="0" begin="1.148s"/></rect><clipPath id="r19"><rect x="20" y="195.3" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="1.148s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r19)"><text xml:space="preserve" x="20" y="201.5" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                              ^YBBBBBBBBBBBBBBBBBY^                                                                                                    </text></g><rect y="196.3" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="1.148s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.148s"/><set attributeName="opacity" to="0" begin="1.208s"/></rect><clipPath id="r20"><rect x="20" y="203.7" height="8.333333333333334" width="0"><animate attributeName="width" from="0" to="800.0" begin="1.208s" dur="0.06s" fill="freeze"/></rect></clipPath><g clip-path="url(#r20)"><text xml:space="preserve" x="20" y="209.8" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">                                                                 ^7?JGGPPGJ?7^                                                                                                      </text></g><rect y="204.7" width="4.444444444444445" height="6.333333333333334" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820.0" begin="1.208s" dur="0.06s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.208s"/><set attributeName="opacity" to="0" begin="1.269s"/></rect><line x1="0" y1="837.0" x2="840.0" y2="837.0" stroke="#30363d"/><text x="20" y="856.0" fill="#7d8590" font-size="13">jrzenemig@github:~$ whoami <tspan fill="#c9d1d9">Full-Stack Developer | AI Enthusiast | Legal-Tech Pioneer</tspan></text><rect x="540.0" y="844.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect></svg>
+<div align="center">
 
----
+### 🎯 Desarrollador | 🔍 Investigador | 🚀 Innovador
 
-## 👋 About Me
+[![GitHub followers](https://img.shields.io/github/followers/jrzenemig-bot?style=social)](https://github.com/jrzenemig-bot)
+[![GitHub Stars](https://img.shields.io/github/stars/jrzenemig-bot?style=social)](https://github.com/jrzenemig-bot?tab=repositories)
 
-I'm a passionate developer focused on building intelligent solutions at the intersection of **technology, law, and AI**. Currently working on modernizing legal information access through smart search and analysis tools.
-
-**Full-Stack Developer** • **AI/ML Enthusiast** • **Legal-Tech Explorer**
-
----
-
-## 🏛️ Featured Project
-
-**[Buscador de Jurisprudencia Europea](https://github.com/jrzenemig-bot/buscador-jurisprudencia-ue)**
-
-An intelligent search and analysis platform for European case law (CJEU & ECHR) powered by AI. Combines semantic search, multi-language support, and automated analysis.
-
-**Tech:** Python • Flask • React • SQLite • OpenAI/Claude API
+</div>
 
 ---
 
-## 📞 Connect
+## 🌟 Sobre Mí
 
-- 💼 **LinkedIn:** [jr-zenemig](https://linkedin.com/in/jr-zenemig)
-- 🐦 **Twitter:** [@jrzenemig](https://twitter.com/jrzenemig)  
-- 📧 **Email:** jr.zenemig@gmail.com
-- 🌐 **GitHub:** [@jrzenemig-bot](https://github.com/jrzenemig-bot)
+Soy un desarrollador apasionado por la **tecnología**, **jurisprudencia** y **inteligencia artificial**. Me encanta crear soluciones innovadoras que resuelven problemas reales.
+
+> 💡 *"La mejor tecnología es la que facilita la vida de las personas"*
 
 ---
 
-**Building technology that makes legal justice more accessible.**
+## 🚀 Proyectos Destacados
+
+### 🏛️ **[Buscador de Jurisprudencia Europea](https://github.com/jrzenemig-bot/Buscador-jurisprudencia-)**
+Buscador inteligente de sentencias europeas con IA. Extrae, busca y analiza jurisprudencia del TJUE y TEDH.
+
+**Características:**
+- 🔍 Búsqueda semántica inteligente
+- 🤖 Automatización con IA (OpenAI/Claude)
+- 🌐 Interfaz web responsive
+- 📚 10+ sentencias reales de ejemplo
+- 🗣️ Detección de 6 idiomas
+- ⚡ Base de datos SQLite
+
+**Stack:** Python | Flask | SQLite | IA
+
+---
+
+## 💻 Tecnologías & Herramientas
+
+<div align="center">
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Librerías
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-blue?style=for-the-badge)
+
+### IA & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrzenemig-bot&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrzenemig-bot&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Intereses & Especialidades
+
+```
+🔬 Inteligencia Artificial        ███████████████░░ 85%
+⚖️  Jurisprudencia & Derecho       ███████████████░░ 85%
+🔍 Web Scraping & APIs            ██████████░░░░░░ 65%
+📊 Análisis de Datos              ███████████░░░░░░ 70%
+🎨 Diseño Frontend                ██████████░░░░░░ 65%
+🚀 DevOps & Deployment            ███████░░░░░░░░░ 45%
+```
+
+---
+
+## 🎯 Objetivos 2024-2025
+
+- ✅ Crear un buscador de jurisprudencia inteligente
+- 🔄 Mejorar búsqueda semántica con embeddings
+- 🌍 Expandir a jurisprudencia internacional
+- 📚 Agregar traducción automática
+- 🤝 Colaborar en proyectos de IA y derecho
+- 📖 Escribir artículos sobre tech + derecho
+
+---
+
+## 📚 Blog & Artículos
+
+Pronto publicaré artículos sobre:
+- 🤖 Automatización con IA
+- ⚖️ Jurisprudencia y tecnología
+- 🔍 Web scraping ético
+- 📊 Análisis de datos legales
+
+---
+
+## 🤝 Colaboración
+
+¿Tienes un proyecto interesante? Me encantaría colaborar en:
+- 🔍 Búsqueda y análisis de información
+- 🤖 Proyectos con IA/Machine Learning
+- ⚖️ Soluciones tecnológicas para derecho
+- 🌐 Desarrollo web y full-stack
+- 📊 Análisis de datos
+
+---
+
+## 📞 Contacto & Enlaces
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jr.zenemig@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jr.zenemig@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jrzenemig--bot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrzenemig-bot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+
+</div>
+
+---
+
+## 🌈 Mi Filosofía
+
+```javascript
+const miFilosofia = {
+  aprendizaje: "Continuo",
+  innovación: "Constante",
+  colaboración: "Esencial",
+  código: "Limpio",
+  documentación: "Completa",
+  impacto: "Positivo"
+}
+```
+
+---
+
+## 💬 Citación Favorita
+
+> *"El futuro pertenece a aquellos que creen en la belleza de sus sueños"*
+> — Eleanor Roosevelt
+
+---
+
+<div align="center">
+
+### ⭐ Si te gusta mi trabajo, no dudes en dejar una estrella en mis repositorios
+
+**Hecho con ❤️ por jrzenemig-bot**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jrzenemig-bot)
+
+</div>
